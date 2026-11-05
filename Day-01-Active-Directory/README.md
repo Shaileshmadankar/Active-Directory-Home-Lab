@@ -33,7 +33,7 @@ Installed the AD DS role and DNS, then promoted the server to a domain controlle
 
 ### 8. Organizational Units
 Created a Company OU with HR, IT, Sales, Groups and Computers inside it.
-![OUs](<08-Active-Directory-Organizational-unit(OU).png>)
+![OUs](08-Active-Directory-Organizational-unit(OU).png)
 
 ### 9. Joined the Windows 10 client to the domain
 Used `sysdm.cpl`, then Change, then Domain, and signed in with the admin account.
